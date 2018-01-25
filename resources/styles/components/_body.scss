@@ -1,0 +1,10 @@
+.body {
+  & .game-list {
+    width: 25%;
+    float:left;
+  }
+  & .game-board {
+    width: 75%;
+    float:left;
+  }
+}
